@@ -6,10 +6,10 @@
   let visible;
 </script>
 
-  <div class="bg-gradient"></div>
-  <Nav />
-  <MainContent />
-  <Footer />
+<div class="bg-gradient"></div>
+<Nav />
+<MainContent />
+<Footer />
 
 <style>
   .bg-gradient {
